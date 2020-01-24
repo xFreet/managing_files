@@ -2,7 +2,7 @@
 
 Organize_files.py 
 ----------
-Organize files by their extentsion by moving them to predefined directions
+Organize files by their extentsion by moving them to predefined folders
 
 Catalog_tree.py
 -----------
